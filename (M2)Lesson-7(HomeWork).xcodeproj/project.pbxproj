@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		44DA633B298F81B1003CC567 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DA633A298F81B1003CC567 /* main.swift */; };
+		44F2321F29925E900026BE9E /* Client.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44F2321E29925E900026BE9E /* Client.swift */; };
+		44F2322129925EA50026BE9E /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44F2322029925EA50026BE9E /* Card.swift */; };
+		44F2322329925EBD0026BE9E /* Bank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44F2322229925EBD0026BE9E /* Bank.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		44DA6337298F81B1003CC567 /* (M2)Lesson-7(HomeWork) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "(M2)Lesson-7(HomeWork)"; sourceTree = BUILT_PRODUCTS_DIR; };
 		44DA633A298F81B1003CC567 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		44F2321E29925E900026BE9E /* Client.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Client.swift; sourceTree = "<group>"; };
+		44F2322029925EA50026BE9E /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		44F2322229925EBD0026BE9E /* Bank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bank.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				44DA633A298F81B1003CC567 /* main.swift */,
+				44F2321E29925E900026BE9E /* Client.swift */,
+				44F2322029925EA50026BE9E /* Card.swift */,
+				44F2322229925EBD0026BE9E /* Bank.swift */,
 			);
 			path = "(M2)Lesson-7(HomeWork)";
 			sourceTree = "<group>";
@@ -120,6 +129,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44F2321F29925E900026BE9E /* Client.swift in Sources */,
+				44F2322329925EBD0026BE9E /* Bank.swift in Sources */,
+				44F2322129925EA50026BE9E /* Card.swift in Sources */,
 				44DA633B298F81B1003CC567 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
